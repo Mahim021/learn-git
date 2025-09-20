@@ -1,8 +1,8 @@
 public class Student {
-    private string name;
+    private String name;
     private int roll;
 
-    Student(string name, int roll) {
+    Student(String name, int roll) {
         this.name = name;
         this.roll = roll;
     }
